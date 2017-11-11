@@ -1,7 +1,6 @@
 # react-native-background-audio
 A react component for playing audio in the back of your project.
 
-
 ```js
 npm install react-native-background-audio --save
 ```
